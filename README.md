@@ -24,13 +24,13 @@ Users should be able to:
 
 ### Screenshot
 
-![screenshot](./)
+![screenshot](./screenshot/screenshot.png)
 
 ### Links
 
-- Solution: [frontendmentor.io](https://www.frontendmentor.io/solutions/?)
+- Solution: [frontendmentor.io](https://www.frontendmentor.io/solutions/fylo-data-storage-component-K8ZdFlQL6Y)
 
-- Live Site: [cloudflare](https://fylo-ds-component-6cm.pages.dev/)
+- Live Site: [cloudflare](https://2c28221b.fylo-dsc.pages.dev/)
 
 ## My process
 
