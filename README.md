@@ -1,6 +1,6 @@
 # Frontend Mentor - Fylo data storage component solution
 
-This is a solution to the [ data sFylotorage component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n)
+This is a solution to the [Fylo data storage component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n)
 
 ## Table of contents
 
@@ -30,7 +30,7 @@ Users should be able to:
 
 - Solution: [frontendmentor.io](https://www.frontendmentor.io/solutions/?)
 
-- Live Site: [cloudflare](https://?.pages.dev/)
+- Live Site: [cloudflare](https://fylo-ds-component-6cm.pages.dev/)
 
 ## My process
 
@@ -40,7 +40,7 @@ Users should be able to:
 
 ### Work Time
 
-- [My Clockify Report](https://app.clockify.me/shared/?)
+- [My Clockify Report](https://app.clockify.me/shared/647c989e94f4c64acaaf12f1)
 
 ### Built with
 
