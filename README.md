@@ -40,7 +40,7 @@ Users should be able to:
 
 ### Work Time
 
-- [My Clockify Report](https://app.clockify.me/shared/647c989e94f4c64acaaf12f1)
+- [My Clockify Report](https://app.clockify.me/shared/6486e1dc87c43129bce89911)
 
 ### Built with
 
